@@ -1,46 +1,46 @@
 # Question App
 
-Bu proje, HTML, CSS, JavaScript, React ve Vite kullanarak geliştirilmiş bir soru-cevap uygulamasıdır.
+This project is a question-answer application developed using HTML, CSS, JavaScript, React, and Vite.
 
-## [Canlı Site için Tıklayınız ](https://questionappm.netlify.app/)
+## [Click Here for Live Site](https://queansvgame.netlify.app/)
 
-## Kurulum
+## Installation
 
-Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+You can follow the steps below to run the project in your local environment:
 
-1. Depoyu klonlayın:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/PehlivanMert/QuestionApp.git
+   git clone https://github.com/Rabiacagli/question-app.git
    ```
-2. Proje dizinine gidin:
+2. Navigate to the project directory:
    ```bash
    cd question-app
    ```
-3. Gerekli bağımlılıkları yükleyin:
+3. Install the necessary dependencies:
    ```bash
    npm install
    ```
-4. Uygulamayı başlatın:
+4. Start the application:
    ```bash
    npm run dev
    ```
 
-## Kullanım
+## Usage
 
-Uygulama yerel sunucunuzda çalışmaya başlayacaktır. Varsayılan olarak `http://localhost:5173` adresinde erişilebilir olacaktır. Tarayıcınızı açarak bu adrese gidin ve uygulamayı kullanmaya başlayın.
+The application will start running on your local server. It will be accessible by default at `http://localhost:5173`. Open your browser and navigate to this address to start using the application.
 
-## Proje Yapısı
+## Project Structure
 
-- `src/`: Uygulamanın kaynak dosyaları
-- `components/`: React bileşenleri
-- `assets/`: Stil dosyaları ve diğer varlıklar
-- `App.jsx`: Ana uygulama bileşeni
-- `main.jsx`: Uygulamanın giriş noktası
+- `src/`: Source files of the application
+- `components/`: React components
+- `assets/`: Style files and other assets
+- `App.jsx`: Main application component
+- `main.jsx`: Entry point of the application
 
-## Teknolojiler
+## Technologies
 
-- **HTML**: Yapısal işaretleme dili
-- **CSS**: Stil ve tasarım
-- **JavaScript**: Dinamik işlevsellik
-- **React**: Kullanıcı arayüzü bileşenleri
-- **Vite**: Geliştirme ve derleme aracı
+- **HTML**: Structural markup language
+- **CSS**: Styling and design
+- **JavaScript**: Dynamic functionality
+- **React**: User interface components
+- **Vite**: Development and build tool
